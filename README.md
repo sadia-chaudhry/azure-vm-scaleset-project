@@ -62,8 +62,6 @@ az login
 
 ![Single VM running nginx](screenshots/nginx-single-vm.png)
 ![Autoscale configuration](screenshots/autoscale-config.png)
-![Load Balancer routing to VM Scale Set](screenshots/load-balancer-page.png)
-![VM Scale Set instance list](screenshots/vmss-instances.png)
 
 - Single VM serving nginx over its public IP
 - Load Balancer distributing traffic across VM Scale Set instances
