@@ -91,6 +91,4 @@ This removes the entire resource group and everything inside it in one command.
 - Configure and manage virtual networking (VNet, subnet, NSG, Load Balancer)
 - Monitor and maintain Azure resources (autoscale rules)
 
-## Author
-
-Sadia — built while studying for AZ-104, Microsoft Azure Administrator Associate.
+By Sadia Chaudhry
