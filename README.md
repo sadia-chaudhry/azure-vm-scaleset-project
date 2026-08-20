@@ -64,10 +64,11 @@ az login
 ![Autoscale configuration](screenshots/autoscale-config.png)
 ![Load Balancer routing to VM Scale Set](screenshots/load-balancer-page.png)
 
-- Single VM serving nginx over its public IP
-- Load Balancer distributing traffic across VM Scale Set instances
 - Autoscale configuration output
 - VM Scale Set instance list
+- Single VM serving nginx over its public IP
+- Load Balancer distributing traffic across VM Scale Set instances
+
 
 ## Troubleshooting / Lessons Learned
 
